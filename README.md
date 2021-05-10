@@ -168,6 +168,7 @@ and same for the other types too.
 	- If `icon` is `true`, then pre-built icons will be shown
 	- If 'icon` is 'false` or 'boolean' is removed, then no icon will be shown
 	- If 'icon' is added by using `R.drawabale.icon_name` , then custom icon will be shown.
+* If you use the Custom Dependency (`implementation 'com.github.ahmmedrejowan.CuteToast:CuteToast-Custom:1.1`) then you can't use the pre-built icons.
 
 
 
@@ -175,8 +176,25 @@ and same for the other types too.
 
 ## Screenshots
 
+Click to View High Quality
+
 ![Screenshot](https://user-images.githubusercontent.com/42619122/117723451-35f82400-b204-11eb-8914-d5ce84ccbbee.jpg)
 
+
+<br/>
+
+## Contribute
+
+Please fork this repository and contribute back using [pull requests](https://github.com/ahmmedrejowan/CuteToast/pulls).
+
+Any contributions, large or small, major features, bug fixes, are welcomed and appreciated
+but will be thoroughly reviewed .
+
+Let me know which features you want in the future in `Request Feature` tab. 
+
+If this project helps you a little bit, then give a to Star ⭐ the Repo. 
+
+<br/>
 
 
 ## Credits
