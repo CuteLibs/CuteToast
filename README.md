@@ -15,8 +15,7 @@
 
 <br/>
 
-![GitHub forks](https://img.shields.io/github/forks/ahmmedrejowan/cutetoast?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/ahmmedrejowan/cutetoast?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/ahmmedrejowan/cutetoast?style=social)
 
 
-![GitHub followers](https://img.shields.io/github/followers/ahmmedrejowan?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/ahmmedrejowan?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/ahmmedrejowan?style=social)](https://github.com/ahmmedrejowan) [![Twitter Follow](https://img.shields.io/twitter/follow/ahmmedrejowan?style=social)](https://twitter.com/ahmmedrejowan)
 
