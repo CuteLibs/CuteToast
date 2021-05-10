@@ -57,6 +57,17 @@ dependencies {
 <br/>
 
 
+## Credits
+
+Created with Love by **K M Rejowan Ahmmed** (@ahmmedrejowan)
+
+* [![FB Link](https://img.shields.io/badge/Facebook-K%20M%20Rejowan%20Ahmmed-blue?style=flat&logo=facebook)](https://facebook.com/ahmmedrejowan)
+* [![GitHub followers](https://img.shields.io/github/followers/ahmmedrejowan?style=social)](https://github.com/ahmmedrejowan) 
+* [![LinkedIN Link](ahttps://img.shields.io/badge/LinkedIn-K%20M%20Rejowan%20Ahmmed-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmmedrejowan)
+* [![Twitter Follow](https://img.shields.io/twitter/follow/ahmmedrejowan?style=social)](https://twitter.com/ahmmedrejowan)
+
+
+
 
 ## License
 
@@ -81,6 +92,4 @@ limitations under the License.
 
 
 
-
-[![GitHub followers](https://img.shields.io/github/followers/ahmmedrejowan?style=social)](https://github.com/ahmmedrejowan) [![Twitter Follow](https://img.shields.io/twitter/follow/ahmmedrejowan?style=social)](https://twitter.com/ahmmedrejowan)
 
