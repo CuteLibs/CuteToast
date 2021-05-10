@@ -171,6 +171,13 @@ and same for the other types too.
 
 
 
+<br/>
+
+## Screenshots
+
+![Screenshot](https://user-images.githubusercontent.com/42619122/117723451-35f82400-b204-11eb-8914-d5ce84ccbbee.jpg)
+
+
 
 ## Credits
 
