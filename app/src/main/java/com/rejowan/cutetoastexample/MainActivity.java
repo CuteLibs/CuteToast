@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void OpenSuccessNoIcon(View view) {
-        CuteToast.ct(MainActivity.this, "This is a Success Toast (no Icon)", CuteToast.LENGTH_SHORT, CuteToast.SUCCESS, false).show();
+        CuteToast.ct(this, "This is a Success Toast (no Icon)", CuteToast.LENGTH_SHORT, CuteToast.SUCCESS).show();
     }
 
     public void OpenWarnNoIcon(View view) {
@@ -94,4 +94,24 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
 
     }
+
+    public void OpenInfoCustom(View view) {
+        CuteToast.ct(this, "This is an Info Toast with Custom Star Icon", CuteToast.LENGTH_SHORT, CuteToast.INFO, R.drawable.ic_baseline_star_border_24).show();
+    }
+
+    public void OpenSuccessCustom(View view) {
+        CuteToast.ct(this, "This is an Success Toast with Custom Double Check Icon", CuteToast.LENGTH_SHORT, CuteToast.SUCCESS, R.drawable.ic_baseline_done_all_24).show();
+
+    }
+
+    public void OpenErrorCustom(View view) {
+        CuteToast.ct(this, "This is an Error Toast with a Custom Icon", CuteToast.LENGTH_SHORT, CuteToast.ERROR, R.drawable.ic_baseline_done_all_24).show();
+
+    }
+
+    public void OpenWarningCustom(View view) {
+        CuteToast.ct(this, "This is an Error Toast with Custom Star Icon", CuteToast.LENGTH_SHORT, CuteToast.ERROR, R.drawable.ic_baseline_star_border_24).show();
+
+    }
+
 }

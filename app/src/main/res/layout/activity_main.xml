@@ -201,7 +201,7 @@
                 android:layout_height="40dp"
                 android:layout_gravity="center"
                 android:layout_margin="5dp"
-                android:background="#2E7D32"
+                android:background="#00695C"
                 android:gravity="center"
                 android:orientation="vertical">
 
@@ -271,6 +271,95 @@
                     android:layout_marginEnd="20dp"
                     android:backgroundTint="#EF6C00"
                     android:onClick="OpenWarnNoIcon"
+                    android:padding="8dp"
+                    android:text="Warning" />
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:background="#00695C"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="Toast with Custom Icon"
+                    android:textColor="#fff"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <Button
+                    android:layout_width="120dp"
+                    android:layout_height="50dp"
+                    android:layout_marginEnd="20dp"
+                    android:backgroundTint="#0277BD"
+                    android:onClick="OpenInfoCustom"
+                    android:padding="8dp"
+                    android:text="Info" />
+
+
+                <Button
+                    android:layout_width="120dp"
+                    android:layout_height="50dp"
+                    android:layout_marginEnd="20dp"
+                    android:backgroundTint="#2E7D32"
+                    android:onClick="OpenSuccessCustom"
+                    android:padding="8dp"
+                    android:text="Success" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <Button
+                    android:layout_width="120dp"
+                    android:layout_height="50dp"
+                    android:layout_marginEnd="20dp"
+                    android:backgroundTint="#C62828"
+                    android:onClick="OpenErrorCustom"
+                    android:padding="8dp"
+                    android:text="Error" />
+
+
+                <Button
+                    android:layout_width="120dp"
+                    android:layout_height="50dp"
+                    android:layout_marginEnd="20dp"
+                    android:backgroundTint="#EF6C00"
+                    android:onClick="OpenWarningCustom"
                     android:padding="8dp"
                     android:text="Warning" />
 
@@ -368,6 +457,10 @@
 
         </LinearLayout>
 
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp" />
 
     </LinearLayout>
 

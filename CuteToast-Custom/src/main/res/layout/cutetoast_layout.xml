@@ -20,15 +20,14 @@
             android:layout_width="25dp"
             android:layout_height="25dp"
             android:layout_gravity="center"
-            android:layout_marginEnd="10dp"
-            android:src="@drawable/ic_info" />
+            android:layout_marginEnd="10dp" />
 
         <TextView
             android:id="@+id/toast_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="15sp"
             android:textColor="#FFFFFF"
+            android:textSize="15sp"
             tools:text="This an example of Success CuteToast!" />
 
 
