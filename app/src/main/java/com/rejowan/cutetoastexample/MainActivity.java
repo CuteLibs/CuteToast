@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void OpenDelete(View view) {
-        CuteToast.ct(MainActivity.this, "This is a Delete Toast", CuteToast.LENGTH_SHORT, CuteToast.DELETE, true).show();
+        CuteToast.ct(this, "This is a Delete Toast", CuteToast.LENGTH_SHORT, CuteToast.DELETE, true).show();
     }
 
     public void OpenError(View view) {
@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void OpenSuccessNoIcon(View view) {
-        CuteToast.ct(this, "This is a Success Toast (no Icon)", CuteToast.LENGTH_SHORT, CuteToast.SUCCESS).show();
+        CuteToast.ct(this, "This is a Success Toast (no Icon)", CuteToast.LENGTH_LONG, CuteToast.SUCCESS).show();
     }
 
     public void OpenWarnNoIcon(View view) {

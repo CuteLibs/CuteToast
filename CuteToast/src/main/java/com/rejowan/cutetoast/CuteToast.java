@@ -39,6 +39,7 @@ public class CuteToast extends Toast {
     public static int SAVE = 9;
     public static int NORMAL = 10;
 
+
     public CuteToast(Context context) {
         super(context);
     }
@@ -47,6 +48,7 @@ public class CuteToast extends Toast {
 
         Toast toast = new Toast(context);
         toast.setDuration(duration);
+
 
         View view = LayoutInflater.from(context).inflate(R.layout.cutetoast_layout, null, false);
 
