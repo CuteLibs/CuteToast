@@ -43,7 +43,7 @@ Add this to your module's `build.gradle` file (make sure the version matches the
 ```gradle
 dependencies {
 	...
-	implementation 'com.github.ahmmedrejowan.CuteToast:CuteToast:1.1'
+	implementation 'com.github.ahmmedrejowan.CuteToast:CuteToast:1.2'
 }
 ```
 <br/>
@@ -53,7 +53,7 @@ If you want to use only **Custom Background Options** (no Pre-build Icons), then
 ```gradle
 dependencies {
 	...
-	implementation 'com.github.ahmmedrejowan.CuteToast:CuteToast-Custom:1.1'
+	implementation 'com.github.ahmmedrejowan.CuteToast:CuteToast-Custom:1.2'
 
 }
 ```
