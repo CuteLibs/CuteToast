@@ -17,6 +17,12 @@
 **CuteToast** allows developers to use Toast with Colorful design and Icons. It's **open-source** and **free to use**. 
 Give it a try.!
 
+## Screenshots
+
+Click to View High Quality
+
+![Screenshot](https://user-images.githubusercontent.com/42619122/117723451-35f82400-b204-11eb-8914-d5ce84ccbbee.jpg)
+
 
 ## Prerequisites
 
@@ -173,14 +179,6 @@ and same for the other types too.
 
 <br/>
 
-## Screenshots
-
-Click to View High Quality
-
-![Screenshot](https://user-images.githubusercontent.com/42619122/117723451-35f82400-b204-11eb-8914-d5ce84ccbbee.jpg)
-
-
-<br/>
 
 ## Contribute
 
