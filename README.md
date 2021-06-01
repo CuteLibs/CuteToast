@@ -17,6 +17,11 @@
 **CuteToast** allows developers to use Toast with Colorful design and Icons. It's **open-source** and **free to use**. 
 Give it a try.!
 
+## What's New
+- **CuteToast** without pre-built icon version added. Check the dependencies.
+
+More changes in 'Release' Tab. 
+
 ## Screenshots
 
 Click to View High Quality
