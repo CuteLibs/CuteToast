@@ -20,7 +20,7 @@ Give it a try.!
 ## What's New
 - **CuteToast** without pre-built icon version added. Check the dependencies.
 
-More changes in 'Release' Tab. 
+More changes in `Release` Tab. 
 
 ## Screenshots
 
