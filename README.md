@@ -4,7 +4,7 @@
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
  [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21) [![JitPack](https://img.shields.io/jitpack/v/github/ahmmedrejowan/CuteToast)](https://jitpack.io/#ahmmedrejowan/CuteToast) [![GitHub license](https://img.shields.io/github/license/ahmmedrejowan/CuteToast)](https://github.com/ahmmedrejowan/CuteToast/blob/master/LICENSE)  
  
-[![GitHub issues](https://img.shields.io/github/issues/ahmmedrejowan/CuteToast)](https://github.com/ahmmedrejowan/CuteToast/issues) [![GitHub forks](https://img.shields.io/github/forks/ahmmedrejowan/CuteToast)](https://github.com/ahmmedrejowan/CuteToast/network) [![GitHub stars](https://img.shields.io/github/stars/ahmmedrejowan/CuteToast)](https://github.com/ahmmedrejowan/CuteToast/stargazers) [![GitHub contributors](https://img.shields.io/github/contributors/ahmmedrejowan/cutetoast)](https://github.com/ahmmedrejowan/CuteToast/graphs/contributors)
+[![GitHub forks](https://img.shields.io/github/forks/ahmmedrejowan/CuteToast)](https://github.com/ahmmedrejowan/CuteToast/network) [![GitHub issues](https://img.shields.io/github/issues/ahmmedrejowan/CuteToast)](https://github.com/ahmmedrejowan/CuteToast/issues) [![GitHub stars](https://img.shields.io/github/stars/ahmmedrejowan/CuteToast)](https://github.com/ahmmedrejowan/CuteToast/stargazers) [![GitHub contributors](https://img.shields.io/github/contributors/ahmmedrejowan/cutetoast)](https://github.com/ahmmedrejowan/CuteToast/graphs/contributors)
 
 ![CuteToast](https://user-images.githubusercontent.com/42619122/117730837-d9e6cd00-b20e-11eb-94fb-3bd3582d4800.png)
 
